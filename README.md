@@ -13,6 +13,6 @@ Config Values:
 
 ## Commands
 
-Currently, the plugin only has 1 command, ``/refresh``. This command is used to refresh the plugin's cache.
+Currently, the plugin only has 1 command, ``/refresh``. This command is used to update the plugin's cache of player data.
 
 Permission Node: ``limbo.refresh``
