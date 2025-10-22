@@ -4,6 +4,6 @@ main: network.warzone.limbo.LimboPlugin
 api-version: '1.21.8'
 #commands:
 #  refetch:
-#    description: Refetches the player's data
+#    description: Fetches updated player data
 #    usage: /refetch
 #    permission: limbo.refetch
