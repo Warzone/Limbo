@@ -1,6 +1,6 @@
 # Limbo
 
-Limbo is Warzone's open sourced plugin for syncing ranks and levels in the lobby server built using Kotlin.
+Limbo is Warzone's open sourced plugin for syncing ranks and levels in the lobby server built using Kotlin
 
 **Note:** This plugin only work alongside the Warzone [Mars](https://github.com/Warzone/mars) plugin.
 
